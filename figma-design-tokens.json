@@ -1,0 +1,260 @@
+{
+  "global": {},
+  "groupware-design-system": {
+    "color-text-primary": {
+      "value": "#202225",
+      "type": "color"
+    },
+    "color-text-secondary": {
+      "value": "#4A4555",
+      "type": "color"
+    },
+    "color-text-tertiary": {
+      "value": "#757B82",
+      "type": "color"
+    },
+    "color-text-quaternary": {
+      "value": "#B4B9BE",
+      "type": "color"
+    },
+    "color-text-primary-inverse": {
+      "value": "#FDFDFD",
+      "type": "color"
+    },
+    "color-text-identity": {
+      "value": "#1BA74E",
+      "type": "color"
+    },
+    "color-text-identity-strong": {
+      "value": "#177D3C",
+      "type": "color"
+    },
+    "color-background-primary": {
+      "value": "#FDFDFD",
+      "type": "color"
+    },
+    "color-background-secondary": {
+      "value": "#F3F5F7",
+      "type": "color"
+    },
+    "color-background-tertiary": {
+      "value": "#E9EDF0",
+      "type": "color"
+    },
+    "color-background-identity": {
+      "value": "#1BA74E",
+      "type": "color"
+    },
+    "color-background-identity-subtle": {
+      "value": "#D9F9E4",
+      "type": "color"
+    },
+    "color-border-primary": {
+      "value": "#4A4F55",
+      "type": "color"
+    },
+    "color-border-secondary": {
+      "value": "#B4B9BE",
+      "type": "color"
+    },
+    "color-border-tertiary": {
+      "value": "#E0E4E8",
+      "type": "color"
+    },
+    "color-border-identity": {
+      "value": "#1BA74E",
+      "type": "color"
+    },
+    "color-button-primary": {
+      "value": "#1BA74E",
+      "type": "color"
+    },
+    "color-button-primary-hover": {
+      "value": "#177D3C",
+      "type": "color"
+    },
+    "color-button-secondary": {
+      "value": "#2E3236",
+      "type": "color"
+    },
+    "color-button-secondary-hover": {
+      "value": "#4A4F55",
+      "type": "color"
+    },
+    "color-button-tertiary": {
+      "value": "#E9EDF0",
+      "type": "color"
+    },
+    "color-button-tertiary-hover": {
+      "value": "#CFD3D8",
+      "type": "color"
+    },
+    "color-button-white": {
+      "value": "#FDFDFD",
+      "type": "color"
+    },
+    "color-button-white-hover": {
+      "value": "#E9EDF0",
+      "type": "color"
+    },
+    "color-support-success": {
+      "value": "#1EB96E",
+      "type": "color"
+    },
+    "color-support-success-subtle": {
+      "value": "#E7F5EC",
+      "type": "color"
+    },
+    "color-support-error": {
+      "value": "#EA2831",
+      "type": "color"
+    },
+    "color-support-error-subtle": {
+      "value": "#FBE8E9",
+      "type": "color"
+    },
+    "color-support-info": {
+      "value": "#175EFF",
+      "type": "color"
+    },
+    "color-support-info-subtle": {
+      "value": "#E6EDFD",
+      "type": "color"
+    },
+    "color-support-brown": {
+      "value": "#CE6F09",
+      "type": "color"
+    },
+    "color-support-yellow": {
+      "value": "#FEF3C7",
+      "type": "color"
+    },
+    "font-heading-01": {
+      "value": {
+        "fontFamily": "Pretendard",
+        "fontWeight": "600",
+        "fontSize": "20px",
+        "lineHeight": "1.4",
+        "letterSpacing": "-0.5px"
+      },
+      "type": "typography"
+    },
+    "font-heading-02": {
+      "value": {
+        "fontFamily": "Pretendard",
+        "fontWeight": "700",
+        "fontSize": "18px",
+        "lineHeight": "1.4",
+        "letterSpacing": "-0.5px"
+      },
+      "type": "typography"
+    },
+    "font-heading-03": {
+      "value": {
+        "fontFamily": "Pretendard",
+        "fontWeight": "600",
+        "fontSize": "18px",
+        "lineHeight": "1.4",
+        "letterSpacing": "-0.5px"
+      },
+      "type": "typography"
+    },
+    "font-heading-04": {
+      "value": {
+        "fontFamily": "Pretendard",
+        "fontWeight": "700",
+        "fontSize": "16px",
+        "lineHeight": "1.4",
+        "letterSpacing": "-0.5px"
+      },
+      "type": "typography"
+    },
+    "font-heading-05": {
+      "value": {
+        "fontFamily": "Pretendard",
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "lineHeight": "1.4",
+        "letterSpacing": "-0.5px"
+      },
+      "type": "typography"
+    },
+    "font-body-01": {
+      "value": {
+        "fontFamily": "Pretendard",
+        "fontWeight": "700",
+        "fontSize": "16px",
+        "lineHeight": "1.4",
+        "letterSpacing": "-0.5px"
+      },
+      "type": "typography"
+    },
+    "font-body-02": {
+      "value": {
+        "fontFamily": "Pretendard",
+        "fontWeight": "700",
+        "fontSize": "16px",
+        "lineHeight": "1.4",
+        "letterSpacing": "-0.5px"
+      },
+      "type": "typography"
+    },
+    "font-body-03": {
+      "value": {
+        "fontFamily": "Pretendard",
+        "fontWeight": "700",
+        "fontSize": "16px",
+        "lineHeight": "1.4",
+        "letterSpacing": "-0.5px"
+      },
+      "type": "typography"
+    },
+    "font-body-04": {
+      "value": {
+        "fontFamily": "Pretendard",
+        "fontWeight": "700",
+        "fontSize": "16px",
+        "lineHeight": "1.4",
+        "letterSpacing": "-0.5px"
+      },
+      "type": "typography"
+    },
+    "font-caption-01": {
+      "value": {
+        "fontFamily": "Pretendard",
+        "fontWeight": "600",
+        "fontSize": "12px",
+        "lineHeight": "1.4",
+        "letterSpacing": "-0.5px"
+      },
+      "type": "typography"
+    },
+    "font-caption-02": {
+      "value": {
+        "fontFamily": "Pretendard",
+        "fontWeight": "600",
+        "fontSize": "12px",
+        "lineHeight": "1.4",
+        "letterSpacing": "-0.5px"
+      },
+      "type": "typography"
+    },
+    "font-caption-03": {
+      "value": {
+        "fontFamily": "Pretendard",
+        "fontWeight": "600",
+        "fontSize": "12px",
+        "lineHeight": "1.4",
+        "letterSpacing": "-0.5px"
+      },
+      "type": "typography"
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global",
+      "groupware-design-system"
+    ]
+  }
+}

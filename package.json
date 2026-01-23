@@ -1,0 +1,14 @@
+{
+	"name": "design-system",
+	"version": "0.1.0",
+	"type": "module",
+	"scripts": {
+		"build": "style-dictionary build --config config.js"
+	},
+	"devDependencies": {
+		"style-dictionary": "^5.2.0"
+	},
+	"dependencies": {
+		"@tokens-studio/sd-transforms": "^2.0.3"
+	}
+}

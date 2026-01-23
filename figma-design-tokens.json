@@ -251,124 +251,124 @@
     }
   },
   "primitive": {
-    "0": {
-      "value": 0,
-      "type": "number"
-    },
-    "1": {
-      "value": 1,
-      "type": "number"
-    },
-    "2": {
-      "value": 2,
-      "type": "number"
-    },
-    "4": {
-      "value": 4,
-      "type": "number"
-    },
-    "6": {
-      "value": 6,
-      "type": "number"
-    },
-    "8": {
-      "value": 8,
-      "type": "number"
-    },
-    "10": {
-      "value": 10,
-      "type": "number"
-    },
-    "12": {
-      "value": 12,
-      "type": "number"
-    },
-    "14": {
+    "number-14": {
       "value": 14,
       "type": "number"
     },
-    "16": {
+    "number-16": {
       "value": 16,
       "type": "number"
     },
-    "20": {
+    "number-20": {
       "value": 20,
       "type": "number"
     },
-    "24": {
+    "number-24": {
       "value": 24,
       "type": "number"
     },
-    "28": {
+    "number-28": {
       "value": 28,
       "type": "number"
     },
-    "32": {
+    "number-32": {
       "value": 32,
       "type": "number"
     },
-    "36": {
+    "number-36": {
       "value": 36,
       "type": "number"
     },
-    "40": {
+    "number-40": {
       "value": 40,
       "type": "number"
     },
-    "44": {
+    "number-44": {
       "value": 44,
       "type": "number"
     },
-    "48": {
+    "number-48": {
       "value": 48,
       "type": "number"
     },
-    "50": {
+    "number-50": {
       "value": 50,
       "type": "number"
     },
-    "56": {
+    "number-56": {
       "value": 56,
       "type": "number"
     },
-    "60": {
+    "number-60": {
       "value": 60,
       "type": "number"
     },
-    "64": {
+    "number-64": {
       "value": 64,
       "type": "number"
     },
-    "68": {
+    "number-68": {
       "value": 68,
       "type": "number"
     },
-    "72": {
+    "number-72": {
       "value": 72,
       "type": "number"
     },
-    "80": {
+    "number-80": {
       "value": 80,
       "type": "number"
     },
-    "100": {
+    "number-100": {
       "value": 100,
       "type": "number"
     },
-    "120": {
+    "number-120": {
       "value": 120,
       "type": "number"
     },
-    "160": {
+    "number-160": {
       "value": 160,
       "type": "number"
     },
-    "200": {
+    "number-200": {
       "value": 200,
       "type": "number"
     },
-    "240": {
+    "number-240": {
       "value": 240,
+      "type": "number"
+    },
+    "number-2": {
+      "value": 2,
+      "type": "number"
+    },
+    "number-4": {
+      "value": 4,
+      "type": "number"
+    },
+    "number-6": {
+      "value": 6,
+      "type": "number"
+    },
+    "number-8": {
+      "value": 8,
+      "type": "number"
+    },
+    "number-10": {
+      "value": 10,
+      "type": "number"
+    },
+    "number-12": {
+      "value": 12,
+      "type": "number"
+    },
+    "number-1": {
+      "value": 1,
+      "type": "number"
+    },
+    "number-0": {
+      "value": 0,
       "type": "number"
     },
     "light-gray-5": {
@@ -511,7 +511,7 @@
       "value": "#F4C684",
       "type": "color"
     },
-    "max": {
+    "number-max": {
       "value": 400,
       "type": "number"
     }

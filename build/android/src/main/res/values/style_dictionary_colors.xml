@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly, this file was auto-generated.
+-->
+<resources>
+  <color name="groupware_design_system_color_text_primary">#202225</color>
+  <color name="groupware_design_system_color_text_secondary">#4a4555</color>
+  <color name="groupware_design_system_color_text_tertiary">#757b82</color>
+  <color name="groupware_design_system_color_text_quaternary">#b4b9be</color>
+  <color name="groupware_design_system_color_text_primary_inverse">#fdfdfd</color>
+  <color name="groupware_design_system_color_text_identity">#1ba74e</color>
+  <color name="groupware_design_system_color_text_identity_strong">#177d3c</color>
+  <color name="groupware_design_system_color_background_primary">#fdfdfd</color>
+  <color name="groupware_design_system_color_background_secondary">#f3f5f7</color>
+  <color name="groupware_design_system_color_background_tertiary">#e9edf0</color>
+  <color name="groupware_design_system_color_background_identity">#1ba74e</color>
+  <color name="groupware_design_system_color_background_identity_subtle">#d9f9e4</color>
+  <color name="groupware_design_system_color_border_primary">#4a4f55</color>
+  <color name="groupware_design_system_color_border_secondary">#b4b9be</color>
+  <color name="groupware_design_system_color_border_tertiary">#e0e4e8</color>
+  <color name="groupware_design_system_color_border_identity">#1ba74e</color>
+  <color name="groupware_design_system_color_button_primary">#1ba74e</color>
+  <color name="groupware_design_system_color_button_primary_hover">#177d3c</color>
+  <color name="groupware_design_system_color_button_secondary">#2e3236</color>
+  <color name="groupware_design_system_color_button_secondary_hover">#4a4f55</color>
+  <color name="groupware_design_system_color_button_tertiary">#e9edf0</color>
+  <color name="groupware_design_system_color_button_tertiary_hover">#cfd3d8</color>
+  <color name="groupware_design_system_color_button_white">#fdfdfd</color>
+  <color name="groupware_design_system_color_button_white_hover">#e9edf0</color>
+  <color name="groupware_design_system_color_support_success">#1eb96e</color>
+  <color name="groupware_design_system_color_support_success_subtle">#e7f5ec</color>
+  <color name="groupware_design_system_color_support_error">#ea2831</color>
+  <color name="groupware_design_system_color_support_error_subtle">#fbe8e9</color>
+  <color name="groupware_design_system_color_support_info">#175eff</color>
+  <color name="groupware_design_system_color_support_info_subtle">#e6edfd</color>
+  <color name="groupware_design_system_color_support_brown">#ce6f09</color>
+  <color name="groupware_design_system_color_support_yellow">#fef3c7</color>
+  <color name="primitive_light_gray_5">#f8f9fa</color>
+  <color name="primitive_light_gray_10">#e9edf0</color>
+  <color name="primitive_light_gray_20">#e0e4e8</color>
+  <color name="primitive_light_gray_30">#cfd3d8</color>
+  <color name="primitive_light_gray_40">#b4b9be</color>
+  <color name="primitive_light_gray_50">#969ba2</color>
+  <color name="primitive_light_gray_60">#757b82</color>
+  <color name="primitive_light_gray_70">#4a4f55</color>
+  <color name="primitive_light_gray_80">#2e3236</color>
+  <color name="primitive_light_gray_90">#202225</color>
+  <color name="primitive_light_gray_95">#17181b</color>
+  <color name="primitive_light_gray_0">#fdfdfd</color>
+  <color name="primitive_light_primary_5">#f6fef9</color>
+  <color name="primitive_light_primary_10">#eefcf3</color>
+  <color name="primitive_light_primary_20">#d9f9e4</color>
+  <color name="primitive_light_primary_30">#bbf4d0</color>
+  <color name="primitive_light_primary_40">#95eeb5</color>
+  <color name="primitive_light_primary_50">#66e695</color>
+  <color name="primitive_light_primary_60">#2fc968</color>
+  <color name="primitive_light_primary_70">#1ba74e</color>
+  <color name="primitive_light_primary_80">#177d3c</color>
+  <color name="primitive_light_primary_90">#095123</color>
+  <color name="primitive_light_primary_95">#012f12</color>
+  <color name="primitive_light_secondary_5">#f8f9fd</color>
+  <color name="primitive_light_secondary_10">#ecf0f9</color>
+  <color name="primitive_light_secondary_20">#d4dcf1</color>
+  <color name="primitive_light_secondary_30">#b3c2e6</color>
+  <color name="primitive_light_secondary_40">#889fd8</color>
+  <color name="primitive_light_secondary_50">#5475c7</color>
+  <color name="primitive_light_secondary_60">#314e98</color>
+  <color name="primitive_light_secondary_70">#243a6e</color>
+  <color name="primitive_light_secondary_80">#1a2b52</color>
+  <color name="primitive_light_secondary_90">#142142</color>
+  <color name="primitive_light_secondary_95">#0b1a3f</color>
+  <color name="primitive_light_teritiary">#f4c684</color>
+</resources>

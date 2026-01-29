@@ -20,6 +20,9 @@ export default {
   expand: {
     typesMap: expandTypesMap,
   },
+  log: {
+    verbosity: 'verbose',
+  },
   platforms: {
     css: {
       transformGroup: 'tokens-studio',
@@ -31,7 +34,6 @@ export default {
           format: 'css/variables',
         },
       ],
-      actions: ['copy_assets'],
     },
     scss: {
       transformGroup: 'tokens-studio',
@@ -43,7 +45,6 @@ export default {
           format: 'scss/variables',
         },
       ],
-      actions: ['copy_assets'],
     },
   },
 };
